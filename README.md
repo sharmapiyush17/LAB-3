@@ -1,3 +1,6 @@
+Piyush Piyush
+(22050267)
+
 # HR Management System - JavaFX
 
 A desktop application built with JavaFX for managing employee and admin data. The app features a login system, a dashboard, and dedicated views for admin and employee records. This version uses in-memory data (hardcoded) and is ideal for learning and demonstration purposes.
@@ -18,19 +21,7 @@ A desktop application built with JavaFX for managing employee and admin data. Th
 
 ## 📷 Screenshots
 
-> 📌 Replace the image links below with your actual screenshots.
-
-**Login Page**
-![Login Screenshot](screenshots/login.png)
-
-**Dashboard**
-![Dashboard Screenshot](screenshots/dashboard.png)
-
-**Admin Table**
-![Admin Table Screenshot](screenshots/admin_table.png)
-
-**Employee Table**
-![Employee Table Screenshot](screenshots/employee_table.png)
+all the screenshots are uploaded in different file
 
 ---
 
@@ -66,11 +57,11 @@ Make sure you have the following installed:
 
 | Username    | Email                  | Password             |
 |-------------|------------------------|----------------------|
-| admin123    | admin@example.com      | hashed_password_here |
-| admin1      | admin1@company.com     | hashed_password_1    |
-| manager1    | manager1@company.com   | hashed_password_2    |
-| supervisor1 | supervisor1@company.com| hashed_password_3    |
-| owner       | owner@company.com      | hashed_password_4    |
+| admin123    | admin@example.com      | admin123 |
+| admin1      | admin1@company.com     | admin1    |
+| manager1    | manager1@company.com   | manager1   |
+| supervisor1 | supervisor1@company.com| supervisor1    |
+
 
 > Note: Passwords are placeholders; actual validation matches these strings.
 
@@ -100,7 +91,7 @@ This project is for educational purposes only.
 ## 🙋‍♂️ Author
 
 **Piyush Piyush**
-
+https://github.com/sharmapiyush17/LAB-3/tree/main
 
 
 
